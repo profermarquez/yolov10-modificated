@@ -1,3 +1,8 @@
+#  Se modifico:
+Se cambio la version de scipy y se le puso sin version
+Corre en Python 3.8.7
+
+
 # [YOLOv10: Real-Time End-to-End Object Detection](https://arxiv.org/abs/2405.14458)
 
 
