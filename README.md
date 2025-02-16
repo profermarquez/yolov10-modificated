@@ -22,14 +22,6 @@ pip install -e .
 python app.py
 # Luego de ejecutar visitar http://127.0.0.1:7860
 ```
-
-# wget https://github.com/THU-MIG/yolov10/releases/download/v1.1/yolov10{n/s/m/b/l/x}.pt
-model = YOLOv10('yolov10{n/s/m/b/l/x}.pt')
-
-model.val(data='coco.yaml', batch=256)
-```
-
-
 ## Entrenamiento
 
 from ultralytics import YOLOv10
